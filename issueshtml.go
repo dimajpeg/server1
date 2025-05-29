@@ -1,7 +1,3 @@
-// Файл: server1/issueshtml.go (або як ти назвав свій проект)
-// Copyright © 2016 Alan A. A. Donovan & Brian W. Kernighan.
-// License: https://creativecommons.org/licenses/by-nc-sa/4.0/
-
 package main
 
 import (
